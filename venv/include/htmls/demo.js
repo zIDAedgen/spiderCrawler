@@ -19,6 +19,6 @@ async function run(url, datas) {
 }
 
 
-for (var i = 0; i < 10 ; i++) {
+for (var i = 191; i < 201; i++) {
 	run(address[i], i);
 }
